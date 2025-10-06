@@ -5,5 +5,5 @@ Aquest projecte recull la documentació de les tasques 2 i 3 del mòdul de segur
 
 ## Contingut
 
-- [Tasca 2](./tasca2)
-- [Tasca 3](./tasca3)
+- [Tasca 2](Tasca2/README.md)
+- [Tasca 3](./Tasca3/README.md)
