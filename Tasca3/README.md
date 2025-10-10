@@ -20,8 +20,10 @@ Configura la màquina virtual per tal de fortificar l’accés al GRUB
 Documenteu el procediment en un document (cal incloure imatges) per posteriorment pujar-lo al vostre repositori.
 Material de suport
 Disc virtual.
+
 Apunts RA1AA4 Seguretat Lògica
 Recuperant Password en Linux:
+
 https://waytoit.wordpress.com/2013/06/06/recuperando-password-en-ubuntu/
 
  
