@@ -24,10 +24,14 @@ Recuperant Password en Linux:
 https://waytoit.wordpress.com/2013/06/06/recuperando-password-en-ubuntu/
 
 
+RESPOSTA
+
+
+
 
 🔒 Reforçament de seguretat del GRUB i recuperació d'accés d'usuari**
 
-🖥️ 1. Iniciem la màquina virtual
+🖥️ 1. Iniciem la màquina virtual**
 
 Arrenca la màquina virtual.
 
@@ -44,6 +48,10 @@ Al entrar mantenim SHIFT i qualsevol altre tecla
 
 <img width="539" height="401" alt="2025-10-10 17_37_30-Desktop - Explorador de fitxers" src="https://github.com/user-attachments/assets/826879d5-cf11-4f3a-a119-897df62f4847" />
 -
+
+
+
+
 
 🔃 2. Entra al mode de recuperació
 
@@ -68,6 +76,9 @@ I ara amb la comanda (paswd usuari)
 <img width="537" height="128" alt="2025-10-10 17_38_14-Desktop - Explorador de fitxers" src="https://github.com/user-attachments/assets/4a97271f-9536-44ff-9734-97fd18d4816d" />
 -
 
+
+
+
 🔐 3. Restablir la contrasenya d’un usuari
 
 Ara pots escriure la següent comanda:
@@ -81,6 +92,9 @@ Introdueix la nova contrasenya per l’usuari miquel.
 -
 
 <img width="540" height="484" alt="2025-10-10 17_38_27-Desktop - Explorador de fitxers" src="https://github.com/user-attachments/assets/913380e5-62ef-494b-9313-8b79d5412705" />
+
+
+
 
 ⚙️ 4. Aconseguir permisos de superusuari
 
@@ -96,6 +110,10 @@ sudo -i
 Entrem a la terminal y possem sudo nano /etc/grub.d/40_custom i
 
 <img width="538" height="133" alt="2025-10-10 17_38_52-Desktop - Explorador de fitxers" src="https://github.com/user-attachments/assets/ddc6e0f4-0ed1-4503-99fb-59606f125fe3" />
+
+
+
+
 
 -
 📝 5. Configura un usuari i contrasenya per protegir el GRUB
@@ -115,6 +133,10 @@ password_pbkdf2 admin grub.pbkdf2.sha512.10000.[...]
 -
 <img width="543" height="148" alt="2025-10-10 17_39_02-Desktop - Explorador de fitxers" src="https://github.com/user-attachments/assets/d31eb0fc-276b-428e-9230-47fe2ffd577b" />
 
+
+
+
+
 -
 🛠️ 6. Edita configuració general del GRUB
 
@@ -133,6 +155,10 @@ GRUB_DISABLE_RECOVERY=true
 🔧 Això farà que el GRUB sigui més ràpid i segur.
 -
 <img width="537" height="310" alt="2025-10-10 17_39_10-Desktop - Explorador de fitxers" src="https://github.com/user-attachments/assets/d1a6bcfc-6787-47b8-a2a6-8f432a5f649e" />
+
+
+
+
 
 
 🔄 7. Reinicia la màquina i prova la protecció
