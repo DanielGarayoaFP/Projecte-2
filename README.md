@@ -37,6 +37,9 @@ Benvinguts a **EverPia**, una consultora IT fundada per professors apassionats p
 🚀 **EverPia** no és només una empresa: és una oportunitat per créixer com a professional i formar part d'una comunitat amb passió per la tecnologia al servei de les persones.
 
 ## Contingut
-
+- **PROJECTA 2**
 - [Tasca 2](Tasca2/README.md)
 - [Tasca 3](Tasca3/README.md)
+
+- **PROJECTA 3**
+- [Tasca1](Tasca1/README.md)
